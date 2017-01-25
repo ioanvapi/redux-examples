@@ -1,0 +1,26 @@
+
+.content {
+    margin: 20px;
+    width: 600px;
+}
+
+h2 {
+    color: #069;
+}
+
+.todoText {
+    cursor: pointer;
+}
+
+.todoAdd {
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+input.form-control {
+    width: 350px !important;
+}
+
+.todoRow {
+    cursor: pointer;
+}
