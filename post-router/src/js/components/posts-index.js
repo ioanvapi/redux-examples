@@ -12,12 +12,12 @@ class PostsIndex extends React.Component {
   render() {
     return (
       <div>
-        <div className="text-xs-right">
-          <Link to="/posts/new" className='btn btn-primary'>
+        <div className='text-right'>
+          <Link to='/posts/new' className='btn btn-primary'>
             Add a Post
           </Link>
         </div>
-        <h2>List of blogposts</h2>
+        <h2>List of blog posts</h2>
       </div>
     )
   }
