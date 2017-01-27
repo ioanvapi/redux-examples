@@ -1,0 +1,12 @@
+
+h2 {
+    color: #006699
+}
+
+h3 {
+    color: blue
+}
+
+li:hover {
+    cursor: pointer
+}
