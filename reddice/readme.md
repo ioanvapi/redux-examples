@@ -28,4 +28,6 @@ cu care va 'traduce' ES6 in javascript vanila.
       module.hot.accept();
     }
 
+* unii zic ca hot reload nu merge pe componente tip functii, doar pe cele tip class !?!
+
 
